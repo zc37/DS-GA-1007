@@ -1,0 +1,123 @@
+commit b02a06fc7face501f82761943cc91da93cac1415
+Author: ziwen C <zc37@uw.edu>
+Date:   Tue Sep 18 16:26:14 2018 -0400
+
+    file2play.txt modified
+
+diff --git a/zc1485/file2play.txt b/zc1485/file2play.txt
+index d3f5a12..7d3fd3f 100644
+--- a/zc1485/file2play.txt
++++ b/zc1485/file2play.txt
+@@ -1 +1 @@
+-
++changing content
+
+commit 613498f90692a68aa46a27029c6aecab9f457692
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Tue Sep 18 15:37:54 2018 -0400
+
+    Update file2play.txt
+
+diff --git a/zc1485/file2play.txt b/zc1485/file2play.txt
+index 7d3fd3f..d3f5a12 100644
+--- a/zc1485/file2play.txt
++++ b/zc1485/file2play.txt
+@@ -1 +1 @@
+-changing content
++
+
+commit 65f6777b5a3ab8f4e6b4bae268bb2b02228e27a7
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Tue Sep 18 15:32:45 2018 -0400
+
+    Update file2play.txt
+    
+    file2plat.txt modified
+
+diff --git a/zc1485/file2play.txt b/zc1485/file2play.txt
+index e69de29..7d3fd3f 100644
+--- a/zc1485/file2play.txt
++++ b/zc1485/file2play.txt
+@@ -0,0 +1 @@
++changing content
+
+commit 00083e5db0e27d075d213a0d0d9151f0fa29f092
+Author: ziwen C <zc37@uw.edu>
+Date:   Tue Sep 18 15:09:42 2018 -0400
+
+    HW1
+
+diff --git a/zc1485/file2play.txt b/zc1485/file2play.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 24340b2f4f5c365e27f81b7355aa9532926171aa
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Tue Sep 18 14:38:53 2018 -0400
+
+    Delete zc1485
+
+diff --git a/zc1485 b/zc1485
+deleted file mode 100644
+index 8b13789..0000000
+--- a/zc1485
++++ /dev/null
+@@ -1 +0,0 @@
+-
+
+commit 7b92b96648e39fd5fc844b11da92a709132e0790
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Tue Sep 18 14:38:16 2018 -0400
+
+    Create zc1485
+
+diff --git a/zc1485 b/zc1485
+new file mode 100644
+index 0000000..8b13789
+--- /dev/null
++++ b/zc1485
+@@ -0,0 +1 @@
++
+
+commit df598f7d0a77fd90b997d0836dbfec30df3686a2
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Tue Sep 18 11:29:29 2018 -0400
+
+    Delete N11720273
+
+diff --git a/N11720273 b/N11720273
+deleted file mode 100644
+index 8b13789..0000000
+--- a/N11720273
++++ /dev/null
+@@ -1 +0,0 @@
+-
+
+commit c6c47530d5f35639701b79991cdf87e3386bfae5
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Mon Sep 17 17:01:55 2018 -0400
+
+    Create N11720273
+
+diff --git a/N11720273 b/N11720273
+new file mode 100644
+index 0000000..8b13789
+--- /dev/null
++++ b/N11720273
+@@ -0,0 +1 @@
++
+
+commit bdd40b34533c3786e03d1c81aae88ff01eb9a358
+Author: ziwen C <34429375+zc37@users.noreply.github.com>
+Date:   Mon Sep 17 16:57:42 2018 -0400
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..754e7fe
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# DS-GA-1007
+\ No newline at end of file
